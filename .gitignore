@@ -1,0 +1,5 @@
+# Project exclude paths
+/api-gateway/target/
+/authorbook-service/target/
+/discovery-server/target/
+/employee-service/target/
